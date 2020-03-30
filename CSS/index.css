@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+}
+
+
+.banner{
+    height: 150px;
+    width: 100%;
+    background-color: #716D62;
+    position: static;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: -10px;
+}
+
+.logo1{
+    height: 60%;
+    width: 30%;
+}
+.img1{
+    height: 100%;
+    width: 100%;
+}
+
+.hola{
+    color: white;
+    font-size: 25px;
+    word-spacing: 30px;
+    margin-right: 30px;
+}
+
+
+.imagen{
+    background-color: lightblue;
+    height: 450px;
+    display: flex;
+    background-image: url(../resources/banner\ medio.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.txt{
+    position: absolute;
+    top: 130px;
+    left: 175px;
+}
+h2{
+    width: auto;
+    color: white;
+    font-size: 300%;
+    background-color: rgb(248, 171, 163);
+}
+
+.bot1{
+    position: absolute;
+    top: 230px;
+    left: 160px;
+    width: 12%;
+    height: 15%;
+    margin: 0;
+}
+img#ver1{
+    width: 100%;
+    height: 100%;
+}
+.bot2{
+    position: absolute;
+    top: 290px;
+    left: 160px;
+    width: 12%;
+    height: 15%;
+    margin: 0;
+}
+img#ver2{
+    width: 100%;
+    height: 100%;
+}
+
+
+.text{
+    display: flex;
+    left: 0;
+    position: static;
+    font-size: 24px;
+    text-align: justify;
+    justify-content: space-around;
+    height: 600px;
+}
+
+.col1{
+    width: 530px;
+    margin: 50px;
+    height: 455px;
+    width: 630px;
+}
+.col2{
+    width: 530px;
+    margin: 50px;
+    height: 455px;
+    width: 630px;
+}
+
+
+.footer{
+    bottom: 0;
+    left: 0;
+    height: 120px;
+    width: 100%;
+    background-color: #716D62;
+    position: static;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo2{
+    height: 59px;
+    width: 380px;
+}
+.img2{
+    height: 100%;
+    width: 100%;
+}
+.lorem{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+.face{
+    height: 64px;
+    width: 380px;
+}
+.img3{
+    height: 100%;
+    width: 64px;
+}
